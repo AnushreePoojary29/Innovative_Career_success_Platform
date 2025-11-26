@@ -3,6 +3,14 @@ node_modules
 .pnp
 .pnp.js
 
+# Python
+venv/
+.venv/
+*/venv/
+*/.venv/
+**/venv/
+**/.venv/
+
 # Testing
 coverage
 
