@@ -1,0 +1,961 @@
+[[
+  {"name": "ADITHI", "company": "Cognizant 1", "email": "adithibhandary48@gmail.com", "phone": "7760721935", "department": "IS", "year": 2025},
+  {"name": "ALOK Y ILLUR", "company": "Semnox Solutions, LTI Mindtree", "email": "alokillur99@gmail.com", "phone": "9740735456", "department": "IS", "year": 2025},
+  {"name": "ATHUL B R", "company": null, "email": "athulbr630@gmail.com", "phone": "9480060630", "department": "IS", "year": 2025},
+  {"name": "CHIRASMITA SANTOSH SALIAN", "company": "Movido", "email": "chirasmitaa.010@gmail.com", "phone": "8317353442", "department": "IS", "year": 2025},
+  {"name": "DIVYA SRI P", "company": "Infosys", "email": "divyasp025@gmail.com", "phone": "8762709286", "department": "IS", "year": 2025},
+  {"name": "DEEKSHA D SHETTY", "company": "TIF Labs", "email": "deekshashetty456456@gmail.com", "phone": "9019214032", "department": "IS", "year": 2025},
+  {"name": "DEEKSHITHA", "company": "Infosys", "email": "dhekshithapoojari@gmail.com", "phone": "9380286721", "department": "IS", "year": 2025},
+  {"name": "DISHA", "company": "Infosys, X-Workz", "email": "dishaacharyaa04@gmail.com", "phone": "7022096071", "department": "IS", "year": 2025},
+  {"name": "DRISHYA DEVANAND", "company": "Kyndryl", "email": "drishyadevanand02@gmail.com", "phone": "9110419722", "department": "IS", "year": 2025},
+  {"name": "SAGAR V K", "company": "Rinex, Jyesta Corporate Entity", "email": "vk1688476@gmail.com", "phone": "8861553271", "department": "IS", "year": 2025},
+  {"name": "SATWIK S", "company": "Spark Innovations", "email": "sathwik002.s@gmail.com", "phone": "9535249160", "department": "IS", "year": 2025},
+  {"name": "SHRAMA BHANDARY", "company": "Infosys, Winman", "email": "shramabhandary@gmail.com", "phone": "9945413269", "department": "IS", "year": 2025},
+  {"name": "SWATHI SINGH", "company": "Q Spiders, Kyndryl", "email": "swathisingh122002@gmail.com", "phone": "7760490525", "department": "IS", "year": 2025},
+  {"name": "ZEESHAAN S SHAIKH", "company": null, "email": "zeeshaanshaikh245@gmail.com", "phone": "9448347776", "department": "IS", "year": 2025},
+  {"name": "ANUSH S UCHIL", "company": null, "email": "anushsuchil8@gmail.com", "phone": "7619638998", "department": "IS", "year": 2025},
+  {"name": "NIKHIL KUMAR", "company": null, "email": "nikhilshetty0411@gmail.com", "phone": "7090235269", "department": "IS", "year": 2025},
+  {"name": "RITHESH S", "company": "Infosys", "email": "reethurithesh734@gmail.com", "phone": "8197749824", "department": "IS", "year": 2025}
+],
+[
+  {
+    "name": "A P AISHWARYA",
+    "company": "MRI Softwares, Cognizant 3",
+    "email": "aishwarya.apmanoj@gmail.com",
+    "phone": "9731042528",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "A S ANANYA",
+    "company": "Delhivery",
+    "email": "acharyaananya52@gmail.com",
+    "phone": "9353990411",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "AAYUSH KUMAR",
+    "company": "Kyndryl",
+    "email": "aayush18kr@gmail.com",
+    "phone": "9905108497",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ABHINAV R",
+    "company": null,
+    "email": "abhinavprabhu388@gmail.com",
+    "phone": "8088998266",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ABHISHEK",
+    "company": "Delhivery",
+    "email": "abhishekn@gmail.com",
+    "phone": "9483309633",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ABHISHEK RAI K",
+    "company": "Cognizant",
+    "email": "abhishekraik02@gmail.com",
+    "phone": "8073953645",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ADITHYA",
+    "company": "Cognizant",
+    "email": "adithyashetty040@gmail.com",
+    "phone": "9591373870",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ADITHYA S",
+    "company": "Cognizant",
+    "email": "adithyashenoy2003@gmail.com",
+    "phone": "8050081638",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "AKASH D N",
+    "company": "Accenture",
+    "email": "akash.4sf21cs022@gmail.com",
+    "phone": "6361175896",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ALEKHYA",
+    "company": "Accenture",
+    "email": "alekhyavaranasi31@gmail.com",
+    "phone": "9353008830",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "AMAN",
+    "company": "Accenture",
+    "email": "amanrao.gs44@gmail.com",
+    "phone": "6362144446",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "AMAN L",
+    "company": "Accenture",
+    "email": "amanl951@gmail.com",
+    "phone": "9663259206",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "AMITH",
+    "company": "Cognizant, Accenture",
+    "email": "amithkiran551@gmail.com",
+    "phone": "8660220158",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ANIKETH NAYAK",
+    "company": "Cognizant",
+    "email": "anikethnayak1263@gmail.com",
+    "phone": "9945864816",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ANKUSH R P",
+    "company": null,
+    "email": "ankushrp2004@gmail.com",
+    "phone": "6360098185",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ANUDEEP K K",
+    "company": "Q Spiders, Cognizant, Infomatics",
+    "email": "anudeepkk2003@gmail.com",
+    "phone": "8762339086",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ANUSH N",
+    "company": "Cognizant",
+    "email": "anush.naik041004@gmail.com",
+    "phone": "9742156700",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ANUSHEK",
+    "company": "Kyndryl",
+    "email": "anushekgowda0903@gmail.com",
+    "phone": "7259348321",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ARJUN C P",
+    "company": "Kyndryl",
+    "email": "arjuncp2002@gmail.com",
+    "phone": "9483496048",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ARVIND",
+    "company": "Accenture",
+    "email": "arvind.rajesh2003@gmail.com",
+    "phone": "8951714352",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "ASWIN",
+    "company": null,
+    "email": "aswinprabhu715@gmail.com",
+    "phone": "9036482211",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "AYESHA",
+    "company": "Accenture",
+    "email": "ayesha@gmail.com",
+    "phone": "8618996496",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "CHAITHRA",
+    "company": "Kyndryl",
+    "email": "chaithrashetty@gmail.com",
+    "phone": "9740498554",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "CHAITHRA B K",
+    "company": "Accenture",
+    "email": "chaithrabk2003@gmail.com",
+    "phone": "9110148997",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "CHARAN KUMAR",
+    "company": "Cognizant 3",
+    "email": "charanraghav3@gmail.com",
+    "phone": "7022729615",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "CHELSTON B",
+    "company": "Cognizant",
+    "email": "chelstonb123@gmail.com",
+    "phone": "7259426947",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "CHETHAN B",
+    "company": "Cognizant",
+    "email": "chethanb886@gmail.com",
+    "phone": "9945261886",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "DEELAN LASRADO",
+    "company": "Semnox Solutions",
+    "email": "deelanlasrado44@gmail.com",
+    "phone": "9880761402",
+    "department": "CSE",
+    "year": 2025
+  },
+  {
+    "name": "DEEPANSHU SHARMA",
+    "company": "LTI Mindtree, Accorian, Tech Mahindra",
+    "email": "depanshu0411@gmail.com",
+    "phone": "9148970912",
+    "department": "CSE",
+    "year": 2025
+  }
+],
+[
+  {
+    "name": "AADI",
+    "company": "Collins Aerospace",
+    "email": "aadi123@gmail.com",
+    "phone": "9876543210",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AARYAN KUMAR",
+    "company": "Cognizant",
+    "email": "aaryankumar2003@gmail.com",
+    "phone": "6362298661",
+    "department": "CSE-AIML",
+    "year": 2022025
+  },
+  {
+    "name": "ABHAY",
+    "company": null,
+    "email": "abhayraghav2003@gmail.com",
+    "phone": "9740313217",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ABHINANDAN",
+    "company": "Accenture",
+    "email": "abhi.shetty987@gmail.com",
+    "phone": "8660722488",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ADARSH",
+    "company": "Accenture",
+    "email": "adarshnaik2003@gmail.com",
+    "phone": "9141682336",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ADITHYA",
+    "company": "X-Workz",
+    "email": "adithyab2003@gmail.com",
+    "phone": "6361730460",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AFRIN",
+    "company": "Kyndryl",
+    "email": "afrinshaik102@gmail.com",
+    "phone": "8310061674",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AJITH",
+    "company": null,
+    "email": "ajithhr2015@gmail.com",
+    "phone": "9886030303",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AKSHAY",
+    "company": "Infosys",
+    "email": "akshay123@gmail.com",
+    "phone": "9745032249",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ALEEM",
+    "company": null,
+    "email": "aleem2003@gmail.com",
+    "phone": "8792638831",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AMAN VERMA",
+    "company": "Accenture",
+    "email": "amanverma2003@gmail.com",
+    "phone": "9072537731",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AMITH K",
+    "company": "Infosys",
+    "email": "amithk2003@gmail.com",
+    "phone": "9902550148",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AMIT",
+    "company": "Cognizant",
+    "email": "amitk2003@gmail.com",
+    "phone": "7019318998",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ANAGHA",
+    "company": "Accenture",
+    "email": "anagha2003@gmail.com",
+    "phone": "7619683834",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ANANYA",
+    "company": null,
+    "email": "ananya0402@gmail.com",
+    "phone": "9481306451",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ANIL",
+    "company": "Cognizant",
+    "email": "anil2003@gmail.com",
+    "phone": "9742506308",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ANITH",
+    "company": "Collins Aerospace",
+    "email": "anithshetty@gmail.com",
+    "phone": "6362559934",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ANJALI",
+    "company": "Accenture",
+    "email": "anjaliacharya2003@gmail.com",
+    "phone": "6364504411",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ARADHYA",
+    "company": "Cognizant",
+    "email": "aradhya2003@gmail.com",
+    "phone": "7892361841",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ARJUN",
+    "company": "Accenture",
+    "email": "arjunashok2003@gmail.com",
+    "phone": "8951406330",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+
+  {
+    "name": "ARYA",
+    "company": "X-Workz",
+    "email": "arya123@gmail.com",
+    "phone": "9845637281",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ASHA",
+    "company": null,
+    "email": "asha2003@gmail.com",
+    "phone": "7892789011",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ASIF",
+    "company": "Kyndryl",
+    "email": "asifshaik@gmail.com",
+    "phone": "9765428931",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ASWIN K",
+    "company": "Cognizant",
+    "email": "aswink2003@gmail.com",
+    "phone": "9743536261",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "ATHARVA",
+    "company": "Accenture",
+    "email": "atharva2003@gmail.com",
+    "phone": "9092237738",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AVINASH",
+    "company": null,
+    "email": "avinashnaik@gmail.com",
+    "phone": "9731858309",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "AYUSH",
+    "company": "Infosys",
+    "email": "ayush2003@gmail.com",
+    "phone": "7892067613",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "BHAVANA",
+    "company": "Cognizant",
+    "email": "bhavana2003@gmail.com",
+    "phone": "8667493833",
+    "department": "CSE-AIML",
+    "year": 2025
+  },
+  {
+    "name": "BHUVAN",
+    "company": "Accenture",
+    "email": "bhuvan2003@gmail.com",
+    "phone": "8073647322",
+    "department": "CSE-AIML",
+    "year": 2025
+  }
+],
+[
+  {
+    "name": "ADITHYA A",
+    "company": null,
+    "email": "adithyaa894@gmail.com",
+    "phone": "6361687894",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "AJAY",
+    "company": null,
+    "email": "ajaybirva09@gmail.com",
+    "phone": "7090502895",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "AKSHAY MARUTI SHET",
+    "company": "Galaxe Solutions",
+    "email": "ashet895@gmail.com",
+    "phone": "9449384765",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "AMITHA",
+    "company": null,
+    "email": "amithashetty888@gmail.com",
+    "phone": "7899677610",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "ANAND",
+    "company": "Infosys",
+    "email": "anandk2003@gmail.com",
+    "phone": "9513217682",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "ANIKETH",
+    "company": "KarMic",
+    "email": "nikethshetty756@gmail.com",
+    "phone": "8197955679",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "ANIRUDDHA",
+    "company": "Accenture",
+    "email": "aniruddhashetty@gmail.com",
+    "phone": "7760548001",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "ANJALI R",
+    "company": null,
+    "email": "rheaasarika14@gmail.com",
+    "phone": "8050920603",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "ANUSHA",
+    "company": "Solar Edge",
+    "email": "anushapoojary2003@gmail.com",
+    "phone": "7259872365",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "ASWATH",
+    "company": "Infosys",
+    "email": "aswathshetty2003@gmail.com",
+    "phone": "9980548227",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "ATHARVA",
+    "company": "Cognizant",
+    "email": "atharvakshetty@gmail.com",
+    "phone": "7760534801",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "BHAVANA",
+    "company": null,
+    "email": "bhavanapoojary434@gmail.com",
+    "phone": "7996824634",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "CHAITRA",
+    "company": "KarMic",
+    "email": "chaitrashetty2003@gmail.com",
+    "phone": "9886543808",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "CHAITRA SHETTY",
+    "company": null,
+    "email": "csh231102@gmail.com",
+    "phone": "8197597040",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "CHARAN",
+    "company": "Infosys",
+    "email": "charanshetty03@gmail.com",
+    "phone": "7892686614",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "CHIRAG",
+    "company": "KarMic",
+    "email": "chiragk2003@gmail.com",
+    "phone": "7975502101",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "DARSHAN",
+    "company": null,
+    "email": "darshanshetty2003@gmail.com",
+    "phone": "6361677933",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "DEEPIKA",
+    "company": "Solar Edge",
+    "email": "deepikashetty2003@gmail.com",
+    "phone": "8610012476",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "DEEPA",
+    "company": null,
+    "email": "deepar2003@gmail.com",
+    "phone": "7892386710",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "DIVYA",
+    "company": "KarMic",
+    "email": "divyakshetty@gmail.com",
+    "phone": "7259849302",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "GOPAL",
+    "company": null,
+    "email": "gopal2003@gmail.com",
+    "phone": "8867894301",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "HARSHITH",
+    "company": "KarMic",
+    "email": "harshithk2003@gmail.com",
+    "phone": "7760062101",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "LAKSHMI",
+    "company": "Solar Edge",
+    "email": "lakshmiashetty2003@gmail.com",
+    "phone": "7019237696",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "LAVANYA",
+    "company": null,
+    "email": "lavanya2003@gmail.com",
+    "phone": "7760251039",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "MAHESH",
+    "company": "Infosys",
+    "email": "maheshk03@gmail.com",
+    "phone": "7760522861",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "MAITREYI",
+    "company": "KarMic",
+    "email": "maitreyi2003@gmail.com",
+    "phone": "9739874210",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "MANJUNATH",
+    "company": null,
+    "email": "manjunath2003@gmail.com",
+    "phone": "7986543421",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "NAVAMI",
+    "company": null,
+    "email": "navamiganiga235@gmail.com",
+    "phone": "9900244702",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "NEHA DINESH",
+    "company": "Solar Edge",
+    "email": "nehadinesh131@gmail.com",
+    "phone": "7899740314",
+    "department": "ECE",
+    "year": 2025
+  },
+  {
+    "name": "NISHANTH",
+    "company": "Infosys,KarMic",
+    "email": "shettynishanth54@gmail.com",
+    "phone": "7760938639",
+    "department": "ECE",
+    "year": 2025
+  }
+],
+[
+  {
+    "name": "ANIRUD C P",
+    "company": null,
+    "email": "anirudcp3@gmail.com",
+    "phone": "9141258475",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "ANKUSH",
+    "company": null,
+    "email": "ankushwagmare490@gmail.com",
+    "phone": "9972702789",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "EKAGRATH D GANIGA",
+    "company": "Glow Logics",
+    "email": "june6ekagrath@gmail.com",
+    "phone": "8861319906",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "KARTHIK K",
+    "company": "Accenture",
+    "email": "karthikk2003@gmail.com",
+    "phone": "7353438252",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "KEERTI",
+    "company": null,
+    "email": "keertipoojary03@gmail.com",
+    "phone": "6363738074",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "PRATHIK",
+    "company": null,
+    "email": "prathikshenoy004@gmail.com",
+    "phone": "9964506254",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "PRAVEEN",
+    "company": null,
+    "email": "praveenshetty111@gmail.com",
+    "phone": "8296579093",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "PRAVEEN KUMAR",
+    "company": "Karmic",
+    "email": "praveenkumar7@gmail.com",
+    "phone": "9110934567",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "RAHUL",
+    "company": null,
+    "email": "rahulshenoy03@gmail.com",
+    "phone": "8951642301",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "RAHUL S",
+    "company": "Accenture",
+    "email": "rahulshetty999@gmail.com",
+    "phone": "8951256734",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "RANJITH",
+    "company": null,
+    "email": "ranjithdk2003@gmail.com",
+    "phone": "7259341762",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "RANJITH KUMAR",
+    "company": null,
+    "email": "ranjithk2003@gmail.com",
+    "phone": "7760548239",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "RASHMI",
+    "company": "Solar Edge",
+    "email": "rashmishetty@gmail.com",
+    "phone": "8050044301",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "RAVIRAJ",
+    "company": "Karmic",
+    "email": "raviraj2003@gmail.com",
+    "phone": "9019237894",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "ROHAN",
+    "company": null,
+    "email": "rohanp03@gmail.com",
+    "phone": "7760032951",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "ROHIT",
+    "company": "Solar Edge",
+    "email": "rohitk2003@gmail.com",
+    "phone": "8660089412",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SAHANA",
+    "company": null,
+    "email": "sahanashetty2003@gmail.com",
+    "phone": "8073546127",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SANJANA",
+    "company": "Accenture",
+    "email": "sanjanashetty2003@gmail.com",
+    "phone": "8660134509",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SANJAY",
+    "company": "Karmic",
+    "email": "sanjay2003@gmail.com",
+    "phone": "7760051234",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SANTHOSH",
+    "company": null,
+    "email": "santhoshp2003@gmail.com",
+    "phone": "8197954881",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SHASHANK",
+    "company": "Glow Logics",
+    "email": "shashank2003@gmail.com",
+    "phone": "9902236049",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SHIVANI",
+    "company": null,
+    "email": "shivanim2003@gmail.com",
+    "phone": "6302139846",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SHREYAS",
+    "company": "Accenture",
+    "email": "shreyasshetty2003@gmail.com",
+    "phone": "8073954782",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SHRUTI",
+    "company": "Solar Edge",
+    "email": "shrutik2003@gmail.com",
+    "phone": "7259348201",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SOURABH",
+    "company": "KarMic",
+    "email": "sourabh2003@gmail.com",
+    "phone": "9456782310",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "VASUNDARA V",
+    "company": null,
+    "email": "vasundaravi16@gmail.com",
+    "phone": "7019767696",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "IBAD AHAMED KHAN (COB 4SF21ME010)",
+    "company": null,
+    "email": "ibadibu009@gmail.com",
+    "phone": "8618553070",
+    "department": "ME",
+    "year": 2025
+  },
+  {
+    "name": "SHAMANTH",
+    "company": null,
+    "email": "shamanthksd@gmail.com",
+    "phone": "7356970477",
+    "department": "ME",
+    "year": 2025
+  }
+]
+
+
+
+]
+

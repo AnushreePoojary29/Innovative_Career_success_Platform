@@ -1,0 +1,254 @@
+{
+  "year": 2021,
+  "companies": [
+    {
+      "name": "Amazon",
+      "roles": ["SDE I"],
+      "role": "SDE I",
+      "overview": "Hiring software engineers for backend and retail systems.",
+      "jobDescription": "At Amazon, Software Development Engineers design scalable systems that power the company’s e-commerce and retail operations, focusing on distributed architecture and efficiency.",
+      "requiredSkills": [
+        "Java",
+        "Data Structures and Algorithms",
+        "System Design",
+        "Problem Solving",
+        "Communication"
+      ],
+      "preferredQualifications": [
+        "Knowledge of AWS and Cloud Architecture",
+        "Experience with distributed systems",
+        "Understanding of Design Patterns",
+        "Team collaboration"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Coding test on arrays and graphs" },
+        { "round": 1, "question": "MCQ on time complexity" },
+        { "round": 1, "question": "Aptitude questions" },
+
+        { "round": 2, "question": "Explain the working of HashMap" },
+        { "round": 2, "question": "System design for order management system" },
+
+        { "round": 3, "question": "Tell about a project you are proud of" },
+        { "round": 3, "question": "Leadership principle you relate to most" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "Accenture",
+      "roles": ["Associate Engineer"],
+      "role": "Associate Engineer",
+      "overview": "Global services company hiring for software and testing roles.",
+      "jobDescription": "At Accenture, Associate Engineers develop and test enterprise software solutions, ensuring quality, performance, and scalability for client systems.",
+      "requiredSkills": [
+        "Java",
+        "SQL",
+        "Testing Basics",
+        "Analytical Thinking",
+        "Communication"
+      ],
+      "preferredQualifications": [
+        "Knowledge of SDLC and Agile",
+        "Understanding of Cloud Fundamentals",
+        "Debugging and Testing Skills",
+        "Teamwork and Adaptability"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Aptitude test" },
+        { "round": 1, "question": "Verbal and logical reasoning" },
+
+        { "round": 2, "question": "OOPs concepts and basic SQL" },
+        { "round": 2, "question": "Explain the SDLC phases" },
+
+        { "round": 3, "question": "Why Accenture?" },
+        { "round": 3, "question": "Are you willing to relocate?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "TCS",
+      "roles": ["Assistant System Engineer"],
+      "role": "Assistant System Engineer",
+      "overview": "Tata Consultancy Services is a global IT services, consulting, and business solutions organization.",
+      "jobDescription": "At TCS, Assistant System Engineers work on software development, maintenance, and testing projects for clients in multiple domains.",
+      "requiredSkills": [
+        "C",
+        "Java",
+        "DBMS",
+        "Logical Reasoning",
+        "Problem Solving"
+      ],
+      "preferredQualifications": [
+        "Knowledge of SDLC and Agile",
+        "Good written communication skills",
+        "Basic knowledge of cloud computing",
+        "Teamwork"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Aptitude test on quantitative reasoning and logical ability" },
+        { "round": 1, "question": "Email writing test" },
+        { "round": 1, "question": "Coding section with two programming problems" },
+
+        { "round": 2, "question": "Explain OOPs concepts with real-world examples" },
+        { "round": 2, "question": "Difference between compiler and interpreter" },
+        { "round": 2, "question": "Write a C program to reverse a string without using built-in functions" },
+
+        { "round": 3, "question": "Tell me about yourself" },
+        { "round": 3, "question": "Why do you want to work at TCS?" },
+        { "round": 3, "question": "Are you comfortable with relocation and night shifts?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "iWave Systems",
+      "roles": ["Embedded Engineer"],
+      "role": "Embedded Engineer",
+      "overview": "iWave Systems is an embedded solutions company focusing on product design, FPGA, and software development for IoT and automotive sectors.",
+      "jobDescription": "Embedded Engineers at iWave Systems design, test, and implement embedded software for IoT and automotive applications using C and hardware-based systems.",
+      "requiredSkills": [
+        "C Programming",
+        "Embedded Systems",
+        "Digital Electronics",
+        "Microcontrollers",
+        "Debugging"
+      ],
+      "preferredQualifications": [
+        "Knowledge of RTOS",
+        "Experience with firmware development",
+        "Understanding of hardware-software interfacing",
+        "Analytical Thinking"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Basic C programming and pointers" },
+        { "round": 1, "question": "Embedded systems MCQs" },
+        { "round": 1, "question": "Digital electronics fundamentals" },
+
+        { "round": 2, "question": "Explain interrupt handling in embedded systems" },
+        { "round": 2, "question": "Difference between microprocessor and microcontroller" },
+        { "round": 2, "question": "How would you debug a firmware issue?" },
+
+        { "round": 3, "question": "Why embedded domain?" },
+        { "round": 3, "question": "How do you stay updated with embedded technology trends?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "Sasken Technologies",
+      "roles": ["Software Engineer"],
+      "role": "Software Engineer",
+      "overview": "Sasken Technologies provides product engineering and digital transformation services across industries like telecom, automotive, and IoT.",
+      "jobDescription": "Software Engineers at Sasken develop, test, and integrate embedded or telecom solutions for client projects.",
+      "requiredSkills": [
+        "C/C++",
+        "Problem Solving",
+        "Data Structures",
+        "Communication",
+        "Analytical Reasoning"
+      ],
+      "preferredQualifications": [
+        "Knowledge of Embedded C",
+        "Experience with Software Testing",
+        "Understanding of Version Control (Git)",
+        "Team Collaboration"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "MCQs on C/C++ programming" },
+        { "round": 1, "question": "Aptitude questions on logical reasoning" },
+        { "round": 1, "question": "Technical comprehension questions" },
+
+        { "round": 2, "question": "Explain memory management in C" },
+        { "round": 2, "question": "What are static and dynamic variables?" },
+        { "round": 2, "question": "Describe your final year project and your contribution" },
+
+        { "round": 3, "question": "Why do you want to join Sasken?" },
+        { "round": 3, "question": "Describe a situation where you solved a team problem" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "Cognizant",
+      "roles": ["Programmer Analyst Trainee"],
+      "role": "Programmer Analyst Trainee",
+      "overview": "Cognizant is a global IT consulting and services company that provides technology and business process outsourcing solutions.",
+      "jobDescription": "Programmer Analyst Trainees at Cognizant design, test, and implement enterprise applications while supporting clients through digital transformation initiatives.",
+      "requiredSkills": [
+        "Java",
+        "SQL",
+        "OOP Concepts",
+        "Logical Thinking",
+        "Teamwork"
+      ],
+      "preferredQualifications": [
+        "Knowledge of Web Technologies",
+        "Understanding of SDLC",
+        "Good Analytical and Debugging Skills",
+        "Strong Communication Skills"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Quantitative aptitude and reasoning questions" },
+        { "round": 1, "question": "Verbal ability and grammar test" },
+        { "round": 1, "question": "Basic programming logic test" },
+
+        { "round": 2, "question": "Explain difference between ArrayList and LinkedList in Java" },
+        { "round": 2, "question": "What is normalization in databases?" },
+        { "round": 2, "question": "Write a program to find factorial using recursion" },
+
+        { "round": 3, "question": "Why Cognizant?" },
+        { "round": 3, "question": "Tell me about your short-term and long-term goals" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "IBM",
+      "roles": ["Associate Systems Engineer"],
+      "role": "Associate Systems Engineer",
+      "overview": "IBM provides innovative solutions in cloud computing, AI, and enterprise systems globally.",
+      "jobDescription": "Associate Systems Engineers at IBM design, implement, and support enterprise-level applications, cloud platforms, and cognitive systems for clients.",
+      "requiredSkills": [
+        "Java",
+        "Python",
+        "SQL",
+        "OOPs Concepts",
+        "Communication"
+      ],
+      "preferredQualifications": [
+        "Knowledge of Cloud Technologies",
+        "Understanding of AI/ML Basics",
+        "Familiarity with DevOps Tools",
+        "Team Collaboration"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Aptitude and reasoning test" },
+        { "round": 1, "question": "Basic coding problem in C/C++/Java" },
+        { "round": 1, "question": "MCQs on OOP and DBMS concepts" },
+
+        { "round": 2, "question": "Explain inheritance and polymorphism in Java" },
+        { "round": 2, "question": "Describe normalization and ACID properties in DBMS" },
+        { "round": 2, "question": "What are your preferred programming languages?" },
+
+        { "round": 3, "question": "Why do you want to work at IBM?" },
+        { "round": 3, "question": "What do you know about IBM's latest technologies?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    }
+  ]
+}

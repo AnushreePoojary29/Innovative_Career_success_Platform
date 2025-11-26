@@ -1,0 +1,252 @@
+{
+  "year": 2023,
+  "companies": [
+    {
+      "name": "PayPal",
+      "roles": ["Software Engineer"],
+      "role": "Software Engineer",
+      "overview": "Global online payments company building next-gen financial services.",
+      "jobDescription": "As a Software Engineer at PayPal, employees design, build, and maintain scalable financial transaction systems ensuring reliability, security, and seamless user experience.",
+      "requiredSkills": [
+        "Java",
+        "Data Structures and Algorithms",
+        "Microservices",
+        "SQL/NoSQL",
+        "Problem Solving"
+      ],
+      "preferredQualifications": [
+        "Knowledge of distributed systems",
+        "Experience with Spring Boot",
+        "Understanding of RESTful APIs",
+        "Familiarity with Docker/Kubernetes"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Solve subset sum problem with target equal to given sum." },
+        { "round": 1, "question": "MCQs on data structures and algorithms efficiency." },
+        { "round": 1, "question": "English comprehension passage-based questions." },
+        { "round": 1, "question": "Aptitude questions." },
+
+        { "round": 2, "question": "Design an LRU cache data structure and write code in Java." },
+        { "round": 2, "question": "Explain microservices architecture for high-availability systems." },
+        { "round": 2, "question": "What is eventual consistency and how does PayPal handle it?" },
+
+        { "round": 3, "question": "Tell about a time you handled a production issue." },
+        { "round": 3, "question": "Why do you want to join PayPal?" },
+        { "round": 3, "question": "Where do you see yourself in 5 years?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "Unicourt",
+      "roles": ["Legal Tech Associate"],
+      "role": "Legal Tech Associate",
+      "overview": "Legal-tech company providing online docketing and court intelligence solutions.",
+      "jobDescription": "At Unicourt, associates work on legal data extraction, process automation, and development of tools for legal research and analytics.",
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Text Parsing",
+        "REST API Design",
+        "Analytical Thinking"
+      ],
+      "preferredQualifications": [
+        "Knowledge of LegalTech tools",
+        "Familiarity with data pipelines",
+        "Understanding of large text databases",
+        "Team collaboration skills"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Coding problem on parsing text and extracting legal citations." },
+        { "round": 1, "question": "Logical reasoning and pattern recognition questions." },
+
+        { "round": 2, "question": "Explain REST API design for legal-case data retrieval." },
+        { "round": 2, "question": "Write SQL to retrieve all cases where plaintiff count > 100." },
+        { "round": 2, "question": "Describe indexing strategies for large text databases." },
+
+        { "round": 3, "question": "Why does legal-tech appeal to you?" },
+        { "round": 3, "question": "How do you manage tight deadlines?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "Cadence",
+      "roles": ["Verification Engineer"],
+      "role": "Verification Engineer",
+      "overview": "Producer of electronic design automation software for chip design verification.",
+      "jobDescription": "Cadence Verification Engineers validate and optimize hardware design using simulation, formal verification, and UVM methodologies.",
+      "requiredSkills": [
+        "SystemVerilog",
+        "UVM",
+        "Digital Logic Design",
+        "Scripting (Python, Perl)",
+        "Problem Solving"
+      ],
+      "preferredQualifications": [
+        "Knowledge of SoC design flow",
+        "Experience in ASIC verification",
+        "Understanding of clock-domain crossing",
+        "Good debugging skills"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Coding: detect overlapping intervals." },
+        { "round": 1, "question": "MCQs on digital logic: difference between flip-flop and latch." },
+
+        { "round": 2, "question": "Describe how to verify an SoC using UVM." },
+        { "round": 2, "question": "Explain clock-domain crossing and mitigation techniques." },
+        { "round": 2, "question": "What is a critical path in VLSI design and how to minimize it?" },
+
+        { "round": 3, "question": "Describe a time you optimized a workflow." },
+        { "round": 3, "question": "Why Cadence and why verification instead of design?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "Impelsys",
+      "roles": ["Full-Stack Developer"],
+      "role": "Full-Stack Developer",
+      "overview": "SaaS provider for digital learning and content-delivery platforms.",
+      "jobDescription": "Full-Stack Developers at Impelsys build and maintain scalable learning platforms using web technologies and cloud-based architectures.",
+      "requiredSkills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "MongoDB",
+        "REST APIs"
+      ],
+      "preferredQualifications": [
+        "Experience with GraphQL",
+        "Understanding of multi-tenant SaaS design",
+        "Knowledge of CI/CD pipelines",
+        "Familiarity with AWS or Azure"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "JavaScript: write a function to debounce input events." },
+        { "round": 1, "question": "MCQs on REST vs GraphQL APIs." },
+
+        { "round": 2, "question": "Explain architecture for a multi-tenant SaaS platform." },
+        { "round": 2, "question": "Write a MongoDB query for pagination." },
+        { "round": 2, "question": "Describe CI/CD pipeline for content updates." },
+
+        { "round": 3, "question": "Describe your biggest web app project." },
+        { "round": 3, "question": "How do you keep up with new web technologies?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "iWave",
+      "roles": ["Data Scientist"],
+      "role": "Data Scientist",
+      "overview": "Provider of analytics and intelligence services with focus on data-driven solutions.",
+      "jobDescription": "Data Scientists at iWave develop predictive models, analyze large datasets, and provide actionable insights using machine learning techniques.",
+      "requiredSkills": [
+        "Python",
+        "Pandas/Numpy",
+        "Machine Learning",
+        "Statistical Analysis",
+        "Data Visualization"
+      ],
+      "preferredQualifications": [
+        "Knowledge of A/B testing",
+        "Experience with time-series forecasting",
+        "Understanding of data bias and mitigation",
+        "Proficiency in SQL"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Predict placement outcome using logistic regression." },
+        { "round": 1, "question": "Logical problem-solving on data optimization." },
+
+        { "round": 2, "question": "Explain feature engineering for time-series data." },
+        { "round": 2, "question": "Implement K-means clustering for profile grouping." },
+        { "round": 2, "question": "What is A/B testing and how is it applied in analytics?" },
+
+        { "round": 3, "question": "How do you handle data bias in analytics?" },
+        { "round": 3, "question": "Why iWave and how would you add value?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "Persistent Systems",
+      "roles": ["Software Engineer"],
+      "role": "Software Engineer",
+      "overview": "Global IT services company specializing in digital engineering and enterprise software.",
+      "jobDescription": "Software Engineers at Persistent Systems design and develop scalable enterprise solutions using modern frameworks and cloud technologies.",
+      "requiredSkills": [
+        "C++/Java/Python",
+        "SQL",
+        "Data Structures and Algorithms",
+        "OOPs Concepts",
+        "Version Control (Git)"
+      ],
+      "preferredQualifications": [
+        "Knowledge of big data frameworks",
+        "Experience with ETL pipelines",
+        "Cloud services (AWS/Azure)",
+        "Understanding of DevOps tools"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Pattern printing problem in C/C++." },
+        { "round": 1, "question": "SQL query to find 2nd highest salary." },
+
+        { "round": 2, "question": "Difference between deep learning and classical ML." },
+        { "round": 2, "question": "Design an ETL pipeline for big data ingestion." },
+        { "round": 2, "question": "Write Python code for parallel file copy." },
+
+        { "round": 3, "question": "Describe your problem-solving approach." },
+        { "round": 3, "question": "Would you relocate for client projects?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "HashDEIN",
+      "roles": ["Blockchain Developer"],
+      "role": "Blockchain Developer",
+      "overview": "Company focusing on blockchain-enabled Web3 solutions and decentralized systems.",
+      "jobDescription": "Blockchain Developers at HashDEIN work on smart contracts, decentralized apps (dApps), and scalable blockchain network solutions.",
+      "requiredSkills": [
+        "Solidity",
+        "Smart Contracts",
+        "Blockchain Architecture",
+        "Cryptography Basics",
+        "Node.js"
+      ],
+      "preferredQualifications": [
+        "Understanding of Ethereum and side-chains",
+        "Experience with Web3.js",
+        "Knowledge of consensus algorithms (PoW, PoS)",
+        "Interest in decentralized finance (DeFi)"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Write smart contract in Solidity for token transfer." },
+        { "round": 1, "question": "MCQs on PoW vs PoS consensus algorithms." },
+
+        { "round": 2, "question": "Explain Merkle Trees and their use in blockchain." },
+        { "round": 2, "question": "Design a scalable side-chain for payments." },
+        { "round": 2, "question": "What are atomic swaps and how are they implemented?" },
+
+        { "round": 3, "question": "What interests you about Web3 and blockchain?" },
+        { "round": 3, "question": "Describe a decentralized project you built." }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    }
+  ]
+}

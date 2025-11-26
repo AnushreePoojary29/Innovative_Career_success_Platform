@@ -1,0 +1,82 @@
+{
+  "year": 2022,
+  "companies": [
+    {
+      "name": "Deloitte",
+      "roles": ["Analyst"],
+      "role": "Analyst",
+      "overview": "Deloitte is a global consulting and financial advisory firm offering services in audit, tax, risk management, and technology.",
+      "jobDescription": "The Analyst role at Deloitte involves assisting in strategic business operations, analyzing client processes, and delivering innovative technology and risk solutions.",
+      "requiredSkills": [
+        "SQL",
+        "Data Analysis",
+        "Excel",
+        "Communication",
+        "Problem Solving"
+      ],
+      "preferredQualifications": [
+        "MBA or Business Degree",
+        "Knowledge of Financial Modeling",
+        "Team Collaboration",
+        "Power BI"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Aptitude and logical test" },
+        { "round": 1, "question": "Business scenario-based questions" },
+        { "round": 1, "question": "Basic Excel problem-solving exercises" },
+
+        { "round": 2, "question": "Explain normalization in databases" },
+        { "round": 2, "question": "Describe different types of SQL joins" },
+        { "round": 2, "question": "Explain the SDLC process" },
+        { "round": 2, "question": "What is the difference between Agile and Waterfall?" },
+
+        { "round": 3, "question": "Why Deloitte?" },
+        { "round": 3, "question": "Describe a time you overcame a team challenge." },
+        { "round": 3, "question": "How do you handle multiple deadlines?" },
+        { "round": 3, "question": "What are your long-term goals in consulting?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    },
+
+    {
+      "name": "Wipro",
+      "roles": ["Project Engineer"],
+      "role": "Project Engineer",
+      "overview": "Wipro is a leading IT services company that provides technology solutions, consulting, and business process services globally.",
+      "jobDescription": "As a Project Engineer at Wipro, employees work on developing, testing, and maintaining client software systems using technologies such as Java, Python, and cloud platforms.",
+      "requiredSkills": [
+        "Java",
+        "Python",
+        "OOP Concepts",
+        "DBMS",
+        "Teamwork"
+      ],
+      "preferredQualifications": [
+        "Knowledge of Cloud Computing",
+        "Problem-solving mindset",
+        "Strong communication skills",
+        "Basic knowledge of DevOps"
+      ],
+      "rounds": 3,
+      "questions": [
+        { "round": 1, "question": "Verbal and logical reasoning test" },
+        { "round": 1, "question": "Basic coding questions in C and Java" },
+        { "round": 1, "question": "Aptitude questions related to number series and percentages" },
+
+        { "round": 2, "question": "Explain inheritance in Java." },
+        { "round": 2, "question": "What is recursion and how is it implemented?" },
+        { "round": 2, "question": "Differentiate between stack and queue." },
+        { "round": 2, "question": "Write a program to check for a palindrome number." },
+
+        { "round": 3, "question": "Tell me about your hobbies." },
+        { "round": 3, "question": "Why do you want to join Wipro?" },
+        { "round": 3, "question": "Describe a situation where you worked under pressure." },
+        { "round": 3, "question": "What are your strengths and areas of improvement?" }
+      ],
+      "type": "visited",
+      "createdAt": "2025-11-21T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "placement-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "run-resume-matcher": "bash \"./src/components/resumematcher 2/resume-matcher/ResumeMatchAI/run_resume_matcher.sh\""
+    ,
+    "merge-placed": "node ./scripts/merge_placed_students.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "20": "^3.1.9",
+    "bootstrap": "^5.3.8",
+    "chart.js": "^4.5.1",
+    "ethers": "^6.9.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.9.5",
+    "siwe": "^1.1.0",
+    "recharts": "^3.4.1"
+  },
+  "devDependencies": {
+    "vite": "^7.2.2"
+  }
+}

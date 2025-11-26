@@ -1,0 +1,1190 @@
+[[
+  {
+    "name": "Nikshitha S Shetty",
+    "company": "Kodenest",
+    "email": "nikshitha842@gmail.com",
+    "phone": "9874563210",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Esha R Pednekar",
+    "company": "kodenest",
+    "email": "esha529@gmail.com",
+    "phone": "9873201456",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Pushpa Rama Devadiga",
+    "company": "kodenest",
+    "email": "pushpa675@gmail.com",
+    "phone": "9876541032",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Raksha",
+    "company": "Infosys",
+    "email": "raksha904@gmail.com",
+    "phone": "9874125630",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Sahana",
+    "company": "Infosys",
+    "email": "sahana658@gmail.com",
+    "phone": "9878965412",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Anirudh Gowda",
+    "company": "Infosys",
+    "email": "anirudh733@gmail.com",
+    "phone": "9873652014",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Anusha",
+    "company": "Kyndryl",
+    "email": "anusha482@gmail.com",
+    "phone": "9874105632",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Bhavana N",
+    "company": "Kyndryl",
+    "email": "bhavana915@gmail.com",
+    "phone": "9876504312",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Sudarshan",
+    "company": "Kyndryl",
+    "email": "sudarshan202@gmail.com",
+    "phone": "9874560123",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Vishwas Nayak",
+    "company": "LTIMindtree",
+    "email": "vishwas743@gmail.com",
+    "phone": "9872013456",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Shivani Bhat",
+    "company": "LTIMindtree",
+    "email": "shivani942@gmail.com",
+    "phone": "9872043561",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Dinakar",
+    "company": "Nissan Digital",
+    "email": "dinakar592@gmail.com",
+    "phone": "9876593214",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Keerthana",
+    "company": "Technologics",
+    "email": "keerthana129@gmail.com",
+    "phone": "9874120365",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Rakshitha",
+    "company": "Technologics",
+    "email": "rakshitha640@gmail.com",
+    "phone": "9875001432",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Sukesh S",
+    "company": "Technologics",
+    "email": "sukesh394@gmail.com",
+    "phone": "9876095432",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Sachin",
+    "company": "QuantumLink",
+    "email": "sachin284@gmail.com",
+    "phone": "9873654120",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Keerthan NS",
+    "company": "Infosys",
+    "email": "keerthan830@gmail.com",
+    "phone": "9871035642",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Shwetha",
+    "company": "Infosys",
+    "email": "shwetha914@gmail.com",
+    "phone": "9872134560",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Sanjana",
+    "company": "Infosys",
+    "email": "sanjana773@gmail.com",
+    "phone": "9876547890",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Akshatha",
+    "company": "Infosys",
+    "email": "akshatha348@gmail.com",
+    "phone": "9877412365",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Prajwal",
+    "company": "Infosys",
+    "email": "prajwal503@gmail.com",
+    "phone": "9879001234",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Rachana",
+    "company": "Infosys",
+    "email": "rachana684@gmail.com",
+    "phone": "9871002345",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Raksha P",
+    "company": "Infosys",
+    "email": "rakshap592@gmail.com",
+    "phone": "9872012345",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Swathi",
+    "company": "Infosys",
+    "email": "swathi384@gmail.com",
+    "phone": "9873201564",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Yashaswini",
+    "company": "Infosys",
+    "email": "yashaswini802@gmail.com",
+    "phone": "9874567891",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Manohar",
+    "company": "TCS",
+    "email": "manohar239@gmail.com",
+    "phone": "9876541203",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Likhith",
+    "company": "TCS",
+    "email": "likhith594@gmail.com",
+    "phone": "9875482031",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "Karthik J Rao",
+    "company": "TCS",
+    "email": "karthikrao809@gmail.com",
+    "phone": "9876231405",
+    "department": "CS",
+    "year": 2024
+  },
+  {
+    "name": "RAMAKRISHNA AV",
+    "company": "TCS",
+    "email": "ramakrishna781@gmail.com",
+    "phone": "9874102983",
+    "department": "CS",
+    "year": 2024
+  }
+],
+[
+  {
+    "name": "Megha - -",
+    "company": "kodenest",
+    "email": "megha--664@gmail.com",
+    "phone": "9995928623",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "VRAJ K RABARA",
+    "company": "kodenest",
+    "email": "vrajkrabara421@gmail.com",
+    "phone": "9093212867",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Neha K V",
+    "company": "Ecolab",
+    "email": "nehakv476@gmail.com",
+    "phone": "9762201453",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "SHRINIDHI B M",
+    "company": "Lumen technologies",
+    "email": "shrinidhibm774@gmail.com",
+    "phone": "9042157683",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Anand Gajanan Bhat",
+    "company": "Tata Elxsi",
+    "email": "anandgajananbhat297@gmail.com",
+    "phone": "9865471203",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "B Anwitha Pai",
+    "company": "Tata Elxsi",
+    "email": "banwithapai378@gmail.com",
+    "phone": "9523417098",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Deepika Shetty",
+    "company": "Tata Elxsi",
+    "email": "deepikashetty594@gmail.com",
+    "phone": "9876320145",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Rashmi",
+    "company": "Tata Elxsi",
+    "email": "rashmi352@gmail.com",
+    "phone": "9812357046",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Keerthana",
+    "company": "Tech Mahindra",
+    "email": "keerthana520@gmail.com",
+    "phone": "9745632108",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Likitha",
+    "company": "Tech Mahindra",
+    "email": "likitha892@gmail.com",
+    "phone": "9821045637",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Shreya",
+    "company": "Mu Sigma",
+    "email": "shreya289@gmail.com",
+    "phone": "9870145632",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Sangeetha",
+    "company": "Mu Sigma",
+    "email": "sangeetha734@gmail.com",
+    "phone": "9658741203",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Prajna",
+    "company": "Mu Sigma",
+    "email": "prajna431@gmail.com",
+    "phone": "9845367201",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Arpitha",
+    "company": "Mu Sigma",
+    "email": "arpitha820@gmail.com",
+    "phone": "9321457086",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Shilpa",
+    "company": "Infosys",
+    "email": "shilpa309@gmail.com",
+    "phone": "9812307456",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Chaitra",
+    "company": "Infosys",
+    "email": "chaitra914@gmail.com",
+    "phone": "9876325041",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Harshitha",
+    "company": "Infosys",
+    "email": "harshitha826@gmail.com",
+    "phone": "9521034786",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Aishwarya",
+    "company": "Infosys",
+    "email": "aishwarya693@gmail.com",
+    "phone": "9015634789",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Anvitha",
+    "company": "Global Edge",
+    "email": "anvitha384@gmail.com",
+    "phone": "9365214078",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Greeshma",
+    "company": "Global Edge",
+    "email": "greeshma901@gmail.com",
+    "phone": "9821340765",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Rakshitha",
+    "company": "Global Edge",
+    "email": "rakshitha820@gmail.com",
+    "phone": "9805632147",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Sahana",
+    "company": "Global Edge",
+    "email": "sahana415@gmail.com",
+    "phone": "9547820134",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Harshini",
+    "company": "Accenture",
+    "email": "harshini582@gmail.com",
+    "phone": "9817543026",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Aishwarya Shetty",
+    "company": "Accenture",
+    "email": "aishwaryashetty732@gmail.com",
+    "phone": "9876012453",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Varsha",
+    "company": "Accenture",
+    "email": "varsha309@gmail.com",
+    "phone": "9852031467",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Pooja",
+    "company": "Accenture",
+    "email": "pooja713@gmail.com",
+    "phone": "9876532109",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Dhanya Shree",
+    "company": "Mu Sigma",
+    "email": "dhanyashree101@gmail.com",
+    "phone": "9539396144",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Karthik Shetty",
+    "company": "Mu Sigma",
+    "email": "karthikshetty606@gmail.com",
+    "phone": "9648770289",
+    "department": "IS",
+    "year": 2024
+  },
+  {
+    "name": "Krithika S Chowta",
+    "company": "Mu Sigma",
+    "email": "krithikaschowta453@gmail.com",
+    "phone": "9421161472",
+    "department": "IS",
+    "year": 2024
+  }
+],
+[
+  {
+    "name": "Muhammed Zainuddin Moosa",
+    "company": "kodenest",
+    "email": "muhammedzainuddinmoosa582@gmail.com",
+    "phone": "9875201346",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Aarav Shetty",
+    "company": "Infosys",
+    "email": "aaravshetty931@gmail.com",
+    "phone": "9874102395",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Ananya Rao",
+    "company": "Accenture",
+    "email": "ananyarao584@gmail.com",
+    "phone": "9876523914",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Rishabh Kumar",
+    "company": "Cognizant",
+    "email": "rishabhkumar243@gmail.com",
+    "phone": "9865231047",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Aditi Shah",
+    "company": "Kyndryl",
+    "email": "aditishah971@gmail.com",
+    "phone": "9873014562",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Karthik Hegde",
+    "company": "TCS",
+    "email": "karthikhegde620@gmail.com",
+    "phone": "9845632170",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Isha Fernandes",
+    "company": "Infosys",
+    "email": "ishafernandes401@gmail.com",
+    "phone": "9812035647",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Rohit Verma",
+    "company": "Accenture",
+    "email": "rohitverma820@gmail.com",
+    "phone": "9874561280",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Sneha Pai",
+    "company": "Capgemini",
+    "email": "snehapai562@gmail.com",
+    "phone": "9945127830",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Yashwanth Naik",
+    "company": "Infosys",
+    "email": "yashwanthnaik703@gmail.com",
+    "phone": "9876302451",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Prajakta Desai",
+    "company": "Cognizant",
+    "email": "prajaktadesai392@gmail.com",
+    "phone": "9875410236",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Arjun Menon",
+    "company": "LTI Mindtree",
+    "email": "arjunmenon579@gmail.com",
+    "phone": "9802145369",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Varsha Kulkarni",
+    "company": "Accenture",
+    "email": "varshakulkarni649@gmail.com",
+    "phone": "9912457830",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Naveen Thomas",
+    "company": "Infosys",
+    "email": "naveenthomas812@gmail.com",
+    "phone": "9987452310",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Harshitha Nayak",
+    "company": "Cognizant",
+    "email": "harshithanayak451@gmail.com",
+    "phone": "9872034519",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Sudeep Gowda",
+    "company": "TCS",
+    "email": "sudeepgowda319@gmail.com",
+    "phone": "9871564321",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Ritika Suresh",
+    "company": "Infosys",
+    "email": "ritikasuresh982@gmail.com",
+    "phone": "9845312370",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Joel Dsilva",
+    "company": "Tech Mahindra",
+    "email": "joeldsilva263@gmail.com",
+    "phone": "9803124756",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Ankit Kumar",
+    "company": "Wipro",
+    "email": "ankitkumar852@gmail.com",
+    "phone": "9865231740",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Meghana R",
+    "company": "Infosys",
+    "email": "meghanar124@gmail.com",
+    "phone": "9845702163",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Ashwin Shenoy",
+    "company": "Accenture",
+    "email": "ashwinshenoy915@gmail.com",
+    "phone": "9876352140",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Diya Mathew",
+    "company": "Cognizant",
+    "email": "diyamathew690@gmail.com",
+    "phone": "9874510239",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Vikram Patil",
+    "company": "HCL",
+    "email": "vikrampatil843@gmail.com",
+    "phone": "9897546312",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Niharika Shetty",
+    "company": "Infosys",
+    "email": "niharikashetty294@gmail.com",
+    "phone": "9871425680",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Shashank Rao",
+    "company": "TCS",
+    "email": "shashankrao650@gmail.com",
+    "phone": "9873604152",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Aarohi Pandit",
+    "company": "Cognizant",
+    "email": "aarohipandit780@gmail.com",
+    "phone": "9846032154",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Tarun Gowda",
+    "company": "Accenture",
+    "email": "tarungowda942@gmail.com",
+    "phone": "9870256341",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Sahana Acharya",
+    "company": "Infosys",
+    "email": "sahanaacharya671@gmail.com",
+    "phone": "9897453102",
+    "department": "AIML",
+    "year": 2024
+  },
+  {
+    "name": "Roshan Kumar",
+    "company": "Tech Mahindra",
+    "email": "roshankumar891@gmail.com",
+    "phone": "9876521409",
+    "department": "AIML",
+    "year": 2024
+  }
+],
+[
+  {
+    "name": "SOUMYA SHRIKANTH BHAT",
+    "company": "Karmic Design",
+    "email": "soumyashrikanthbhat483@gmail.com",
+    "phone": "9875201463",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Sujan R Arasa",
+    "company": "Karmic Design",
+    "email": "sujanarasa903@gmail.com",
+    "phone": "9874102953",
+    "department": "EC",
+    "year": 2024
+  },
+
+  {
+    "name": "Aishwarya Shetty",
+    "company": "TCS",
+    "email": "aishwaryashetty792@gmail.com",
+    "phone": "9876521034",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Arun Kumar",
+    "company": "Infosys",
+    "email": "arunkumar539@gmail.com",
+    "phone": "9870321456",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Chandana Rao",
+    "company": "Accenture",
+    "email": "chandanarao183@gmail.com",
+    "phone": "9874106523",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Nikhil Prasad",
+    "company": "Cognizant",
+    "email": "nikhilprasad720@gmail.com",
+    "phone": "9863521704",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Sneha Hegde",
+    "company": "Bosch",
+    "email": "snehahegde593@gmail.com",
+    "phone": "9871456302",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Ashwin Pai",
+    "company": "Infosys",
+    "email": "ashwinpai460@gmail.com",
+    "phone": "9845217630",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Ritika G Pai",
+    "company": "TCS",
+    "email": "ritikapai743@gmail.com",
+    "phone": "9814532076",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Manoj Shetty",
+    "company": "Accenture",
+    "email": "manojshetty394@gmail.com",
+    "phone": "9896314250",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Krithika D",
+    "company": "Tech Mahindra",
+    "email": "krithikad820@gmail.com",
+    "phone": "9871456932",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Harshith Rao",
+    "company": "Cognizant",
+    "email": "harshithrao241@gmail.com",
+    "phone": "9873024561",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Sudarshan K",
+    "company": "Siemens",
+    "email": "sudarshank601@gmail.com",
+    "phone": "9845231074",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Vidya Nayak",
+    "company": "Capgemini",
+    "email": "vidyanayak368@gmail.com",
+    "phone": "9870145632",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Darshan Acharya",
+    "company": "Infosys",
+    "email": "darshanacharya915@gmail.com",
+    "phone": "9876032149",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Goutham R",
+    "company": "TCS",
+    "email": "gouthamr124@gmail.com",
+    "phone": "9863201547",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Mahima S",
+    "company": "Kyndryl",
+    "email": "mahimas941@gmail.com",
+    "phone": "9876201534",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Shaurya Shankar",
+    "company": "TCS",
+    "email": "shauryashankar308@gmail.com",
+    "phone": "9814573206",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Swathi Kumar",
+    "company": "Infosys",
+    "email": "swathikumar528@gmail.com",
+    "phone": "9875632104",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Raghavendra",
+    "company": "Accolite",
+    "email": "raghavendra294@gmail.com",
+    "phone": "9879021346",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Pooja Jain",
+    "company": "Mindtree",
+    "email": "poojajain650@gmail.com",
+    "phone": "9802145637",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Sharan Shetty",
+    "company": "Infosys",
+    "email": "sharanshetty942@gmail.com",
+    "phone": "9874501239",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Lavanya B",
+    "company": "Accenture",
+    "email": "lavanyab731@gmail.com",
+    "phone": "9872365410",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Prathiksha",
+    "company": "Cognizant",
+    "email": "prathiksha490@gmail.com",
+    "phone": "9845126734",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Rohit S",
+    "company": "TCS",
+    "email": "rohits289@gmail.com",
+    "phone": "9873024516",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Atharva Kamath",
+    "company": "Infosys",
+    "email": "atharvakamath702@gmail.com",
+    "phone": "9896031245",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Meenakshi",
+    "company": "Bosch",
+    "email": "meenakshi184@gmail.com",
+    "phone": "9812045673",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Shashank",
+    "company": "Intel",
+    "email": "shashank503@gmail.com",
+    "phone": "9875632410",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Anusha B",
+    "company": "Qualcomm",
+    "email": "anushab641@gmail.com",
+    "phone": "9871234569",
+    "department": "EC",
+    "year": 2024
+  },
+  {
+    "name": "Lokesh R",
+    "company": "Cognizant",
+    "email": "lokeshr430@gmail.com",
+    "phone": "9847032156",
+    "department": "EC",
+    "year": 2024
+  }
+],
+[
+  {
+    "name": "PRAJWAL N",
+    "company": "Windacare India",
+    "email": "prajwaln482@gmail.com",
+    "phone": "9874501236",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "CHINTAN M R",
+    "company": "Anglo Eastern",
+    "email": "chintanmr903@gmail.com",
+    "phone": "9872314056",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "BIPIN SHETTY",
+    "company": "Windcare India",
+    "email": "bipinshetty670@gmail.com",
+    "phone": "9865231470",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "RAKSHITH K",
+    "company": "Anglo Eastern",
+    "email": "rakshithk315@gmail.com",
+    "phone": "9875632140",
+    "department": "RA",
+    "year": 2024
+  },
+
+  {
+    "name": "Ajay Kumar",
+    "company": "Bosch",
+    "email": "ajaykumar821@gmail.com",
+    "phone": "9812045637",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Manoj Shetty",
+    "company": "Infosys",
+    "email": "manojshetty954@gmail.com",
+    "phone": "9874102563",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Ranjith Gowda",
+    "company": "TCS",
+    "email": "ranjithgowda308@gmail.com",
+    "phone": "9876523014",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Sahana B",
+    "company": "Accenture",
+    "email": "sahanab623@gmail.com",
+    "phone": "9845632109",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Deepak Rao",
+    "company": "Cognizant",
+    "email": "deepkrao592@gmail.com",
+    "phone": "9871035624",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Shreyas Pai",
+    "company": "Mahindra & Mahindra",
+    "email": "shreyaspai702@gmail.com",
+    "phone": "9812365470",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Harshith",
+    "company": "Bosch",
+    "email": "harshith493@gmail.com",
+    "phone": "9874501269",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Aishwarya Rao",
+    "company": "L&T",
+    "email": "aishwaryarao143@gmail.com",
+    "phone": "9870145632",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Dhanush Kumar",
+    "company": "TCS",
+    "email": "dhanushkumar780@gmail.com",
+    "phone": "9865021347",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Aniket Jain",
+    "company": "Accenture",
+    "email": "aniketjain410@gmail.com",
+    "phone": "9845012367",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Lavanya Shetty",
+    "company": "Infosys",
+    "email": "lavanyashetty650@gmail.com",
+    "phone": "9832045167",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Pavan Hegde",
+    "company": "TVS Motors",
+    "email": "pavanhegde318@gmail.com",
+    "phone": "9873654201",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Sudeep R",
+    "company": "Bosch",
+    "email": "sudeepr294@gmail.com",
+    "phone": "9875896132",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Akshay Kumar",
+    "company": "Tata Hitachi",
+    "email": "akshaykumar731@gmail.com",
+    "phone": "9812356490",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Yogesh K",
+    "company": "Ashok Leyland",
+    "email": "yogeshk741@gmail.com",
+    "phone": "9876321054",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Vikram Nayak",
+    "company": "Mahindra",
+    "email": "vikramnayak162@gmail.com",
+    "phone": "9873642105",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Charan Kumar",
+    "company": "Capgemini",
+    "email": "charankumar582@gmail.com",
+    "phone": "9875623014",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Rohit Sharma",
+    "company": "Infosys",
+    "email": "rohitsharma923@gmail.com",
+    "phone": "9865473021",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Abhishek N",
+    "company": "TCS",
+    "email": "abhishekn972@gmail.com",
+    "phone": "9876021345",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Keerthi Rao",
+    "company": "Accenture",
+    "email": "keerthirao830@gmail.com",
+    "phone": "9870451263",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Anand Raj",
+    "company": "Wipro",
+    "email": "anandraj294@gmail.com",
+    "phone": "9812365408",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Rithvik N",
+    "company": "Bosch",
+    "email": "rithvikn759@gmail.com",
+    "phone": "9874509630",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Shashank Shetty",
+    "company": "Tata Elxsi",
+    "email": "shashankshetty701@gmail.com",
+    "phone": "9871536024",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Sourabh Kulal",
+    "company": "ABB",
+    "email": "sourabhkulal842@gmail.com",
+    "phone": "9845201367",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Rahul Nayak",
+    "company": "Karmic Design",
+    "email": "rahulnayak310@gmail.com",
+    "phone": "9871023465",
+    "department": "RA",
+    "year": 2024
+  },
+  {
+    "name": "Naveen Shetty",
+    "company": "Cognizant",
+    "email": "naveenshetty983@gmail.com",
+    "phone": "9873642091",
+    "department": "RA",
+    "year": 2024
+  }
+]
+
+]
